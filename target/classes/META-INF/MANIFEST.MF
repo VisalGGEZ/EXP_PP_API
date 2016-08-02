@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EXP_PP_API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ViSAL MSi
+Implementation-Vendor-Id: org.khmeracademy.epseeker
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/EXP_PP_API/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
